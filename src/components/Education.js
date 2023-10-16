@@ -5,12 +5,12 @@ const Education = () => {
     <section>
                 <h2>Education</h2>
             
-                <h3>The Future Kid's School, Rajahmundry</h3>
+                <h3>Sri Chaitanya Techno School, Kukatpally, Hyderabad.</h3>
                 <p>10th standard</p>
                 <p>Graduation Year: 2019</p>
             
             
-                <h3>Sri Shiridi Sai Vidyanikethan, Rajahmundry</h3>
+                <h3>Sri Chaitanya Junior College, Kukatpally, Hyderabad.</h3>
                 <p>Intermediate</p>
                 <p>Graduation Year: 2021</p>
             

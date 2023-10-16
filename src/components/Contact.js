@@ -1,4 +1,3 @@
-// Contact.js
 import React from 'react';
 
 const Contact = () => {
@@ -10,13 +9,13 @@ const Contact = () => {
       </p>
       <ul>
         <li>
-          <strong>Email:</strong> <a href="mailto:ronithvalluri11@gmail.com">ronithvalluri11@gmail.com</a>
+          <strong>Email:</strong> <a href="mailto:shreyapininti123.com">ronithvalluri11@gmail.com</a>
         </li>
         <li>
-          <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ronith-valluri-63435521b/" target="_blank" rel="noopener noreferrer">click here</a>
+          <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pininti-shreya-443b5a26a/" target="_blank" rel="noopener noreferrer">click here</a>
         </li>
         <li>
-          <strong>GitHub:</strong> <a href="https://github.com/ronithvalluri" target="_blank" rel="noopener noreferrer">click here</a>
+          <strong>GitHub:</strong> <a href="https://github.com/SHREYA2505" target="_blank" rel="noopener noreferrer">click here</a>
         </li>
        
       </ul>

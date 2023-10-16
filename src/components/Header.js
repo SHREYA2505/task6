@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header>
       <img src={MyPhoto} alt="My Picture" className="rounded-image" />
-      <h1>Valluri Ramachandra Ronith</h1>
+      <h1>Shreya Pininti</h1>
       <p>Student at Vellore Institute of Technology</p>
     </header>
   );
