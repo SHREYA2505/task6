@@ -9,7 +9,7 @@ const Contact = () => {
       </p>
       <ul>
         <li>
-          <strong>Email:</strong> <a href="mailto:shreyapininti123.com">ronithvalluri11@gmail.com</a>
+          <strong>Email:</strong> <a href="mailto:shreyapininti123@gmail.com">shreyapininti123@gmail.com</a>
         </li>
         <li>
           <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pininti-shreya-443b5a26a/" target="_blank" rel="noopener noreferrer">click here</a>
